@@ -1,2 +1,2 @@
 # Chess
-Desktop 2 players Chess game
+Executable of a 2-players Chess game
